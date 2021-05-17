@@ -20,3 +20,4 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 
 
 ## License
+[MIT](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/LICENSE)
