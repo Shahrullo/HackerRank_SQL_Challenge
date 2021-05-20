@@ -37,6 +37,7 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 | 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Employee%20Salaries.sql)
 
 
+### Advanced Select 
 
 
 ## License
