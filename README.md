@@ -30,6 +30,11 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 | 13 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Weather%20Observation%20Station%208.sql)
 | 14 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Weather%20Observation%20Station%209.sql)
 | 15 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Weather%20Observation%20Station%2010.sql)
+| 16 | [Weather Observation Station 11](https://www.hackerrank.com/challenges/weather-observation-station-11/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Weather%20Observation%20Station%2011.sql) 
+| 17 | [Weather Observation Station 12](https://www.hackerrank.com/challenges/weather-observation-station-12/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Weather%20Observation%20Station%2012.sql)
+| 18 | [Higher Than 75 Marks](https://www.hackerrank.com/challenges/more-than-75-marks/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Higher%20Than%2075%20Marks.sql)
+| 19 | [Employee Names](https://www.hackerrank.com/challenges/name-of-employees/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Employee%20Names.sql)
+| 20 | [Employee Salaries](https://www.hackerrank.com/challenges/salary-of-employees/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Employee%20Salaries.sql)
 
 
 
