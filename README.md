@@ -25,6 +25,12 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 | 8 | [Weather Observation Station 3](https://www.hackerrank.com/challenges/weather-observation-station-3/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Weather%20Observation%20Station%203.sql)
 | 9 | [Weather Observation Station 4](https://www.hackerrank.com/challenges/weather-observation-station-4/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Weather%20Observation%20Station%204.sql)
 | 10 | [Weather Observation Station 5](https://www.hackerrank.com/challenges/weather-observation-station-5/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Weather%20Observation%20Station%205.sql)
+| 11 | [Weather Observation Station 6](https://www.hackerrank.com/challenges/weather-observation-station-6/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Weather%20Observation%20Station%206.sql) 
+| 12 | [Weather Observation Station 7](https://www.hackerrank.com/challenges/weather-observation-station-7/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Weather%20Observation%20Station%207.sql)
+| 13 | [Weather Observation Station 8](https://www.hackerrank.com/challenges/weather-observation-station-8/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Weather%20Observation%20Station%208.sql)
+| 14 | [Weather Observation Station 9](https://www.hackerrank.com/challenges/weather-observation-station-9/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Weather%20Observation%20Station%209.sql)
+| 15 | [Weather Observation Station 10](https://www.hackerrank.com/challenges/weather-observation-station-10/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Select/Weather%20Observation%20Station%2010.sql)
+
 
 
 
