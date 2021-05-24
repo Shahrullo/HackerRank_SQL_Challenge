@@ -40,6 +40,10 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 ### Advanced Select 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-
+| 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Select/Type%20of%20Triangle.sql)
+| | |
+| | |
+| | |
+| | |
 ## License
 [MIT](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/LICENSE)
