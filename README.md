@@ -47,6 +47,12 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 | 5 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Select/New%20Companies.sql) 
 
 
+### Aggregation
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+
+
+
 
 ## License
 [MIT](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/LICENSE)
