@@ -60,6 +60,10 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 | 8 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Top%20Earners.sql)
 | 9 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%202.sql)
 | 10 | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%2013.sql)
+| 11 | [Weather Observation Station 14](https://www.hackerrank.com/challenges/weather-observation-station-14/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%2014.sql)
+| 12 | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%2015.sql)
+| 13 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%2016.sql)
+| 14 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%2017.sql)
 
 
 
