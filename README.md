@@ -64,6 +64,9 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 | 12 | [Weather Observation Station 15](https://www.hackerrank.com/challenges/weather-observation-station-15/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%2015.sql)
 | 13 | [Weather Observation Station 16](https://www.hackerrank.com/challenges/weather-observation-station-16/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%2016.sql)
 | 14 | [Weather Observation Station 17](https://www.hackerrank.com/challenges/weather-observation-station-17/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%2017.sql)
+| 15 | [Weather Observation Station 18](https://www.hackerrank.com/challenges/weather-observation-station-18/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%2018.sql)
+| 16 | [Weather Observation Station 19](https://www.hackerrank.com/challenges/weather-observation-station-19/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%2019.sql)
+| 17 | [Weather Observation Station 20](https://www.hackerrank.com/challenges/weather-observation-station-20/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%2020.sql)
 
 
 
