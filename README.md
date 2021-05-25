@@ -50,7 +50,11 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 ### Aggregation
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-
+| 1 | [Revising Aggregations - The Count Function] (https://www.hackerrank.com/challenges/revising-aggregations-the-count-function/problem) | [Solution] (https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Revising%20Aggregations%20-%20The%20Count%20Function.sql)  
+| 2 | [Revising Aggregations - The Sum Function] (https://www.hackerrank.com/challenges/revising-aggregations-sum/problem) | [Solution] (https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Revising%20Aggregations%20-%20The%20Sum%20Function.sql)
+| 3 | [Revising Aggregations - Averages] (https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [Solution] (https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Revising%20Aggregations%20-%20Averages.sql)
+| 4 | [Average Population] (https://www.hackerrank.com/challenges/average-population/problem) | [Solution] (https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Revising%20Aggregations%20-%20Averages.sql)
+| 5 | [Japan Population] (https://www.hackerrank.com/challenges/japan-population/problem) | [Solution] (https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Japan%20Population.sql)
 
 
 
