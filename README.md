@@ -55,6 +55,11 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 | 3 | [Revising Aggregations - Averages](https://www.hackerrank.com/challenges/revising-aggregations-the-average-function/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Revising%20Aggregations%20-%20Averages.sql)
 | 4 | [Average Population](https://www.hackerrank.com/challenges/average-population/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Revising%20Aggregations%20-%20Averages.sql)
 | 5 | [Japan Population](https://www.hackerrank.com/challenges/japan-population/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Japan%20Population.sql)
+| 6 | [Population Density Difference](https://www.hackerrank.com/challenges/population-density-difference/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Population%20Density%20Difference.sql)  
+| 7 | [The Blunder](https://www.hackerrank.com/challenges/the-blunder/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/The%20Blunder.sql)
+| 8 | [Top Earners](https://www.hackerrank.com/challenges/earnings-of-employees/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Top%20Earners.sql)
+| 9 | [Weather Observation Station 2](https://www.hackerrank.com/challenges/weather-observation-station-2/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%202.sql)
+| 10 | [Weather Observation Station 13](https://www.hackerrank.com/challenges/weather-observation-station-13/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Aggregation/Weather%20Observation%20Station%2013.sql)
 
 
 
