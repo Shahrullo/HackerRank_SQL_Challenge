@@ -76,6 +76,10 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 | 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Join/African%20Cities.sql)
 | 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
 | 4 | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Join/The%20Report.sql)
+| 5 | [Top Competitors](https://www.hackerrank.com/challenges/full-score/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Join/Top%20Competitors.sql)
+| 6 | [Ollivander's Inventory](https://www.hackerrank.com/challenges/harry-potter-and-wands/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Join/Ollivander's%20Inventory.sql)
+| 7 | [Challenges](https://www.hackerrank.com/challenges/challenges/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Join/Challenges.sql)
+| 8 | [Contest Leaderboard](https://www.hackerrank.com/challenges/contest-leaderboard/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Join/Contest%20Leaderboard.sql)
 
 
 
