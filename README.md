@@ -72,10 +72,10 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 ### Basic Join 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Select/Type%20of%20Triangle.sql)
-| 2 | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Select/The%20PADS.sql)
-| 3 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Select/Occupations.sql)
-| 4 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Select/Binary%20Tree%20Nodes.sql)
+| 1 | [Population Census](https://www.hackerrank.com/challenges/asian-population/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Join/Population%20Census.sql)
+| 2 | [African Cities](https://www.hackerrank.com/challenges/african-cities/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Join/African%20Cities.sql)
+| 3 | [Average Population of Each Continent](https://www.hackerrank.com/challenges/average-population-of-each-continent/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Join/Average%20Population%20of%20Each%20Continent.sql)
+| 4 | [The Report](https://www.hackerrank.com/challenges/the-report/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Basic%20Join/The%20Report.sql)
 
 
 
