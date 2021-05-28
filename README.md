@@ -91,5 +91,13 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 | 4 | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Join/15%20days%20of%20learning%20SQL.sql)
 
 
+### Alternative Queries
+| Number | Challenges | Solutions |
+|:------:|------------|:---------:|
+| 1 | [Draw The Triangle 1](https://www.hackerrank.com/challenges/draw-the-triangle-1/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Alternative%20Queries/Draw%20The%20Triangle%201.sql)
+| 2 | [Draw The Triangle 2](https://www.hackerrank.com/challenges/draw-the-triangle-2/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Alternative%20Queries/Draw%20The%20Triangle%202.sql)
+| 3 | [Print Prime Numbers](https://www.hackerrank.com/challenges/print-prime-numbers/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Alternative%20Queries/Print%20Prime%20Numbers.sql)
+
+
 ## License
 [MIT](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/LICENSE)
