@@ -85,11 +85,10 @@ This repository is about the solutions of all the SQL challenges given on Hacker
 ### Advanced Join 
 | Number | Challenges | Solutions |
 |:------:|------------|:---------:|
-| 1 | [Type of Triangle](https://www.hackerrank.com/challenges/what-type-of-triangle/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Select/Type%20of%20Triangle.sql)
-| 2 | [The PADS](https://www.hackerrank.com/challenges/the-pads/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Select/The%20PADS.sql)
-| 3 | [Occupations](https://www.hackerrank.com/challenges/occupations/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Select/Occupations.sql)
-| 4 | [Binary Tree Nodes](https://www.hackerrank.com/challenges/binary-search-tree-1/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Select/Binary%20Tree%20Nodes.sql)
-| 5 | [New Companies](https://www.hackerrank.com/challenges/the-company/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Select/New%20Companies.sql) 
+| 1 | [SQL Project Planning](https://www.hackerrank.com/challenges/sql-projects/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Join/SQL%20Project%20Planning.sql)
+| 2 | [Placements](https://www.hackerrank.com/challenges/placements/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Join/Placement.sql)
+| 3 | [Symmetric Pairs](https://www.hackerrank.com/challenges/symmetric-pairs/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Join/Symmetric%20Pairs.sql)
+| 4 | [15 Days of Learning SQL](https://www.hackerrank.com/challenges/15-days-of-learning-sql/problem) | [Solution](https://github.com/Shahrullo/HackerRank_SQL_Challenge/blob/main/Advanced%20Join/15%20days%20of%20learning%20SQL.sql)
 
 
 ## License
